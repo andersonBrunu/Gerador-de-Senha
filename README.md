@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Projeto criado pra fins de prática e aprendizagem.
+Projeto criado pra fins de prática e aprendizagem, gerar diversas senhas com variedades de tamanhos de caracteres podendo copiar a senha com apenas um click.
 
 ## Layout da página
 
@@ -12,3 +12,6 @@ Projeto criado pra fins de prática e aprendizagem.
 + HTML
 + CSS
 + JavaScript
+
+### Acesse a pagina: 
+<a href="https://andersonbrunu.github.io/Gerador-de-Senha/"> > Gerador de senha < </a>
